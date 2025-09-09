@@ -14,3 +14,6 @@
 
 5. New vs Returning customers by month — [SQL](./sql/05_new_vs_returning_by_month.sql)  
    ![q05](./images/05_new_vs_returning.png)
+
+6. Churned customers (no rental in last 60 days) — [SQL](./sql/06_churned_customers_60d.sql)  
+   ![q06](./images/06_churn_60d.png)
