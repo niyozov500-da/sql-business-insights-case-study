@@ -20,3 +20,6 @@
 
 7. Revenue by store & staff — [SQL](./sql/07_revenue_by_store_and_staff.sql)  
    ![q07](./images/07_store_staff_revenue.png)
+
+8. Inventory turns by store — [SQL](./sql/08_inventory_turns_by_store.sql)  
+   ![q08](./images/08_inventory_turns.png)
