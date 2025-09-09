@@ -11,3 +11,6 @@
 
 4. Customer lifetime value — Top 15 — [SQL](./sql/04_customer_lifetime_value_top15.sql)  
    ![q04](./images/04_ltv_top15.png)
+
+5. New vs Returning customers by month — [SQL](./sql/05_new_vs_returning_by_month.sql)  
+   ![q05](./images/05_new_vs_returning.png)
