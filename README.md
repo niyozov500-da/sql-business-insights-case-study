@@ -30,3 +30,6 @@
 10. Actor revenue — Top 15 — [SQL](./sql/10_actor_revenue.sql)  
     ![q10](./images/10_actor_revenue.png)
 
+11. Category price & length profile — [SQL](./sql/11_category_price_and_length_profile.sql)  
+    ![q11](./images/11_category_profile.png)
+
