@@ -8,3 +8,6 @@
 
 3. Top films by revenue — [SQL](./sql/03_top_films_by_revenue.sql)  
    ![q03](./images/03_top_films.png)
+
+4. Customer lifetime value — Top 15 — [SQL](./sql/04_customer_lifetime_value_top15.sql)  
+   ![q04](./images/04_ltv_top15.png)
