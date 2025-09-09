@@ -33,3 +33,6 @@
 11. Category price & length profile — [SQL](./sql/11_category_price_and_length_profile.sql)  
     ![q11](./images/11_category_profile.png)
 
+12. Top 10% customers’ revenue share — [SQL](./sql/12_top_10pct_customers_share.sql)  
+    ![q12](./images/12_top10pct_share.png)
+
