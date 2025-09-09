@@ -17,3 +17,6 @@
 
 6. Churned customers (no rental in last 60 days) — [SQL](./sql/06_churned_customers_60d.sql)  
    ![q06](./images/06_churn_60d.png)
+
+7. Revenue by store & staff — [SQL](./sql/07_revenue_by_store_and_staff.sql)  
+   ![q07](./images/07_store_staff_revenue.png)
