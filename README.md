@@ -23,3 +23,6 @@
 
 8. Inventory turns by store — [SQL](./sql/08_inventory_turns_by_store.sql)  
    ![q08](./images/08_inventory_turns.png)
+
+9. Late return rate by store — [SQL](./sql/09_late_return_rate_by_store.sql)  
+   ![q09](./images/09_late_return_rate.png)
