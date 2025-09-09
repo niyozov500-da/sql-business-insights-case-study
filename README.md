@@ -26,3 +26,7 @@
 
 9. Late return rate by store — [SQL](./sql/09_late_return_rate_by_store.sql)  
    ![q09](./images/09_late_return_rate.png)
+
+10. Actor revenue — Top 15 — [SQL](./sql/10_actor_revenue.sql)  
+    ![q10](./images/10_actor_revenue.png)
+
